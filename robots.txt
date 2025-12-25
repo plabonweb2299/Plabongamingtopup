@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://plabonweb2299.github.io/Plabongamingtopup/sitemap.xml
